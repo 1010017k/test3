@@ -18,8 +18,8 @@
     outline: none;
     border-radius: 0.25rem;
     color: black;
-    backroung: white;
-    baorder: 1px solid rgb(0,0,0);
+    background: white;
+    border: 1px solid rgb(0,0,0);
 }
 
 .input-control {
