@@ -5,7 +5,7 @@ export default function Singnup2() {
   return (
     <>
     <Navigation />
-    <div>Singnup2</div>
+    <div>Thank you !</div>
     </>
   )
 }

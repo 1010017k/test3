@@ -3,6 +3,7 @@ import Navigation from '../components/Navigation'
 import { auth,app } from '../Firebase';
 import { signInWithEmailAndPassword } from 'firebase/auth';
 import { useNavigate } from 'react-router-dom';
+import "./index.css"
 
 function Login() {
 
